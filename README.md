@@ -56,9 +56,10 @@ print(prediction)
 print(f"Predicted value: {pre}")
 ## Output:
 ```
-![Screenshot 2024-03-05 094622](https://github.com/Dharma23012432/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/152275002/cb325bd7-1cd2-47f0-ad70-099aa1d9d1e1)
-![WhatsApp Image 2024-03-05 at 10 20 02_2f41ae0c](https://github.com/Dharma23012432/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/152275002/0e7e4b2a-b953-44fb-809b-59c10d71cfff)
-![image](https://github.com/Dharma23012432/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/152275002/9451f22f-4c80-4d37-8cd3-8e6f2ae09c01)
+![image](https://github.com/NyomX/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145953580/f169e191-3355-4308-a1ae-1734d1eed996)
+
+![image](https://github.com/NyomX/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145953580/a7b202e9-d5eb-460b-b65e-b6bbaee699f2)
+![image](https://github.com/NyomX/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145953580/3fc9f0dc-6b8e-4828-b7ec-52875494e89d)
 ```
 
 
