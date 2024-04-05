@@ -60,10 +60,10 @@ print(f"Predicted value: {pre}")
 
 ![image](https://github.com/NyomX/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145953580/a7b202e9-d5eb-460b-b65e-b6bbaee699f2)
 ![image](https://github.com/NyomX/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145953580/3fc9f0dc-6b8e-4828-b7ec-52875494e89d)
-```
 
 
 
 
-## Result:
+
+# Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
